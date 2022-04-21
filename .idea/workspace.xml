@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7906e8f1-e1a9-44c0-b192-6bc158159991" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第san次提交了.patch" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="285qkghJlxOwhZ1pYhmWR1PRE6W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7906e8f1-e1a9-44c0-b192-6bc158159991" name="Default Changelist" comment="" />
+      <created>1650516938228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650516938228</updated>
+      <workItem from="1650516939593" duration="826000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交了">
+      <created>1650517080343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650517080343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交了">
+      <created>1650517195113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650517195113</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次提交了">
+      <created>1650517442194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650517442194</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第san次提交了">
+      <created>1650517735082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650517735082</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交了" />
+    <MESSAGE value="第san次提交了" />
+    <option name="LAST_COMMIT_MESSAGE" value="第san次提交了" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1650517735097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1650517735097" />
+    <state x="420" y="81" key="FileChooserDialogImpl" timestamp="1650517693644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1650517693644" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1650517466502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1650517466502" />
+    <state x="232" y="59" key="Vcs.Push.Dialog.v2" timestamp="1650517760714">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="59" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1650517760714" />
+    <state x="27" y="0" key="new project wizard" timestamp="1650517407233">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="27" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1650517407233" />
+  </component>
+</project>
